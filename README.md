@@ -1,20 +1,24 @@
-# Manual Testing Project
+# Manual Testing Project – Login Page
 
-## Overview
-This project demonstrates my understanding of manual software testing.
+## Project Overview
+This project demonstrates manual testing performed on a sample login functionality of a web application.
 
-I performed testing on a sample web application and created:
-- Test cases
-- Bug reports
+## Features Tested
+- User login
+- Input validation
+- Error handling
 
-## Scope
-- Functional testing
-- UI testing
-- Negative testing
+## Testing Types
+- Functional Testing
+- Negative Testing
+- UI Testing
 
-## Tools Used
-- Manual testing techniques
-- Markdown documentation
+## Test Deliverables
+- Test Cases
+- Bug Reports
+
+## Objective
+To identify defects and ensure the login functionality works as expected.
 
 ## Author
 Oyedolapo
